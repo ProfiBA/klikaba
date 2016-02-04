@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingTop="5dip"
+    android:paddingBottom="5dip"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/lblFirstName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First Name"
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="15dp" />
+    <TextView
+        android:id="@+id/lblLastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last Name"
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/lblFirstName"
+        android:layout_toEndOf="@+id/lblFirstName"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="15dp" />
+
+    <ImageView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgDeleteIcon"
+        android:background="@android:drawable/ic_menu_delete"
+        android:clickable="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="16dp"
+        android:visibility="invisible" />
+
+
+</RelativeLayout>

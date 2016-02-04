@@ -1,0 +1,33 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Employee</string>
+    <string name="splash_text">Emploder 1.0</string>
+    <string name="ac_delete">Delete</string>
+    <string name="ac_new">New</string>
+    <string name="ac_edit">Edit</string>
+    <string name="ac_newEmployee">New employee</string>
+    <string name="ac_cancel">Cancel</string>
+
+    <string name="firstName">First name:</string>
+    <string name="lastName">Last name:</string>
+
+
+    <string name="err_noConnection">No internet connection!</string>
+    <string name="err_RestNotResponding">Remote web server is not responding!</string>
+    <string name="err_EmptyFields">Please enter value in all fields!</string>
+    <string name="err_FailRequest">Request failed!</string>
+    <string name="err_FailCreateEmployee">Request failed to create new employee!</string>
+    <string name="err_FailEditEmployee">Request failed to edit employee!</string>
+    <string name="err_FailFetch">Unable to fetch data!</string>
+    <string name="err_FailDelete">Unable to delete employee!</string>
+
+    <string name="msg_employeeCreated">New employee created</string>
+    <string name="msg_employeeEdited">Employee edited</string>
+    <string name="msg_employeeDeleted">Employee deleted</string>
+    <string name="msg_deleteConfirm">Delete confirmation</string>
+    <string name="msg_deleteConfirm2">Are you sure you want to delete %1$s employee?</string>
+    <string name="msg_loadedFromRemote">Data loaded from remote server!</string>
+    <string name="msg_loadedFromLocal">Data loaded from local storage!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
