@@ -1,0 +1,135 @@
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\csc.exe
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\csc.exe.config
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\csc.rsp
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\csi.exe
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\csi.rsp
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\System.AppContext.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\System.Console.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\System.IO.FileSystem.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\vbc.exe
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\vbc.exe.config
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\vbc.rsp
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\VBCSCompiler.exe
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\KlikaBa.dll.config
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\KlikaBa.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\KlikaBa.pdb
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\Antlr3.Runtime.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\EntityFramework.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\EntityFramework.SqlServer.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\Newtonsoft.Json.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Net.Http.Formatting.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Helpers.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Http.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Http.WebHost.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Mvc.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Optimization.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Razor.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.WebPages.Deployment.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.WebPages.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.WebPages.Razor.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\WebGrease.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\Antlr3.Runtime.pdb
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\EntityFramework.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\EntityFramework.SqlServer.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\Newtonsoft.Json.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Net.Http.Formatting.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Helpers.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Http.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Http.WebHost.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Mvc.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Optimization.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.Razor.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.WebPages.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.WebPages.Deployment.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\bin\System.Web.WebPages.Razor.xml
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\obj\Debug\KlikaBa.csprojResolveAssemblyReference.cache
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\obj\Debug\KlikaBa.dll
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\obj\Debug\KlikaBa.pdb
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\obj\Debug\KlikaBa.Migrations.Initial.resources
+c:\users\vanja\documents\visual studio 2015\Projects\KlikaBa\KlikaBa\obj\Debug\KlikaBa.csproj.GenerateResource.Cache
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\csc.exe
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\csc.exe.config
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\csc.rsp
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\csi.exe
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\csi.rsp
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\System.AppContext.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\System.Collections.Immutable.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\System.Console.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\System.IO.FileSystem.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\System.Reflection.Metadata.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\vbc.exe
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\vbc.exe.config
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\vbc.rsp
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\VBCSCompiler.exe
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\roslyn\VBCSCompiler.exe.config
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\KlikaBa.dll.config
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\KlikaBa.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\KlikaBa.pdb
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\Antlr3.Runtime.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\EntityFramework.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\EntityFramework.SqlServer.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\Microsoft.Web.Infrastructure.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\Newtonsoft.Json.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Net.Http.Formatting.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Helpers.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Http.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Http.WebHost.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Mvc.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Optimization.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Razor.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.WebPages.Deployment.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.WebPages.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.WebPages.Razor.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\WebGrease.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\Antlr3.Runtime.pdb
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\EntityFramework.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\EntityFramework.SqlServer.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\Newtonsoft.Json.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Net.Http.Formatting.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Helpers.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Http.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Http.WebHost.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Mvc.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Optimization.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.Razor.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.WebPages.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.WebPages.Deployment.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\bin\System.Web.WebPages.Razor.xml
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\obj\Debug\KlikaBa.csprojResolveAssemblyReference.cache
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\obj\Debug\KlikaBa.Migrations.Initial.resources
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\obj\Debug\KlikaBa.Migrations.NewStuff.resources
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\obj\Debug\KlikaBa.csproj.GenerateResource.Cache
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\obj\Debug\KlikaBa.dll
+D:\Backup 23.01.2016\KlikaBa\KlikaBa\obj\Debug\KlikaBa.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Connection-Web.config Connection String" description="Connection Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:klikadb.database.windows.net,1433;Database=klika;User ID=vanja@klikadb;Password=Test1234!;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Backup\ 23\.01\.2016\\KlikaBa\\KlikaBa\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Connection']/@connectionString" />
+  </parameter>
+</parameters>
